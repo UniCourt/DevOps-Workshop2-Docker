@@ -62,6 +62,8 @@ multiple containers from a single image, run multiple containers using docker-co
 - Do docker login
    ```shell
    $ sudo docker login -u username --password-stdin
+   or
+   $ sudo docker login -u username
    ```
 
 #### Docker without sudo
@@ -83,6 +85,8 @@ multiple containers from a single image, run multiple containers using docker-co
 4. Verify that you can run docker commands without sudo.
     ```shell
    $ docker images
+   or
+   $ docker image ls
     ```
 
 ## What will you learn by the end of this workshop?
