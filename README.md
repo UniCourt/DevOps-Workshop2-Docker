@@ -8,7 +8,7 @@ multiple containers from a single image, run multiple containers using docker-co
 ## Prerequisites
 
 - Machine/VM with ubuntu 22.04
-- [Docker](#Install Docker)
+- [Docker](#install-docker)
 - [DockerHub Account]( https://hub.docker.com )
 - [Git]( https://www.atlassian.com/git/tutorials/install-git#linux )
     - [Create github account](https://github.com/signup)
