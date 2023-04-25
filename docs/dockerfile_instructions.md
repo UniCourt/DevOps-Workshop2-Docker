@@ -111,7 +111,7 @@ alpine              3.5                 f80194ae2e0c        7 months ago        
 
 #### Create and Run the container
 ```shell
-$ docker container run entrypoint:v1
+$ docker container run entrypnt:1.0
 
 Hi, your ENTRYPOINT instruction in Exec Form !
 ```
